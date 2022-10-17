@@ -1,3 +1,5 @@
 # This is a symple hello world program.
 
-print ("Hello world!")
+name=input("Give me your name: ")
+
+print (f'Hello {name}!')
